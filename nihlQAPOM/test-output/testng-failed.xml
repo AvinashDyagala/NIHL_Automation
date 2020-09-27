@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [NIHL QA Automation Suite]">
+  <test thread-count="5" name="NIHL Application Tests(failed)">
+    <classes>
+      <class name="com.nihlQAPOM.auto.testcases.e2eTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="enterMyInformation" invocation-numbers="1"/>
+          <include name="teardown"/>
+          <include name="init1"/>
+        </methods>
+      </class> <!-- com.nihlQAPOM.auto.testcases.e2eTest -->
+    </classes>
+  </test> <!-- NIHL Application Tests(failed) -->
+</suite> <!-- Failed suite [NIHL QA Automation Suite] -->

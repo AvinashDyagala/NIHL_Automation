@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NIHL QA Automation Suite">
+	<test name="NIHL Application Tests">
+		<classes>
+			<class name="com.nihlQAPOM.auto.testcases.e2eTest"></class>
+		</classes>
+	</test>
+</suite>

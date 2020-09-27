@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="NIHL QA Automation Suite" duration-ms="58964" started-at="2020-09-27T20:52:50Z" finished-at="2020-09-27T20:53:49Z">
+    <groups>
+    </groups>
+    <test name="NIHL Application Tests" duration-ms="58964" started-at="2020-09-27T20:52:50Z" finished-at="2020-09-27T20:53:49Z">
+      <class name="com.nihlQAPOM.auto.testcases.e2eTest">
+        <test-method status="PASS" signature="init1()[pri:0, instance:com.nihlQAPOM.auto.testcases.e2eTest@ff5b51f]" name="init1" is-config="true" duration-ms="14" started-at="2020-09-27T20:52:50Z" finished-at="2020-09-27T20:52:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init1 -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.nihlQAPOM.auto.testcases.e2eTest@ff5b51f]" name="setUp" is-config="true" duration-ms="1" started-at="2020-09-27T20:52:51Z" finished-at="2020-09-27T20:52:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="enterMyInformation(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.nihlQAPOM.auto.testcases.e2eTest@ff5b51f]" name="enterMyInformation" duration-ms="7" started-at="2020-09-27T20:52:51Z" data-provider="getAllTestData" finished-at="2020-09-27T20:52:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Gradual]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[test1@testmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Jan ]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1970]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[TestFNameOne]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[TestLNameOne]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[484783535]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[123 TestOne Lane]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[189]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[Etobicoke]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[Ontario]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[M8Y1G8]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[Canada]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[4169999999]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[4379999999]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[English]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[2017]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[15 Apr 2017]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[12 Feb 2017]]>
+              </value>
+            </param>
+            <param index="23">
+              <value>
+                <![CDATA[Audio One Clinic]]>
+              </value>
+            </param>
+            <param index="24">
+              <value>
+                <![CDATA[123 AudioOne Lane]]>
+              </value>
+            </param>
+            <param index="25">
+              <value>
+                <![CDATA[6479999999]]>
+              </value>
+            </param>
+            <param index="26">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="27">
+              <value>
+                <![CDATA[12 Jan 2017]]>
+              </value>
+            </param>
+            <param index="28">
+              <value>
+                <![CDATA[ENTTopDoc]]>
+              </value>
+            </param>
+            <param index="29">
+              <value>
+                <![CDATA[123 ENTTopDoc Lane]]>
+              </value>
+            </param>
+            <param index="30">
+              <value>
+                <![CDATA[9058888888]]>
+              </value>
+            </param>
+            <param index="31">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="32">
+              <value>
+                <![CDATA[Less than 2 years]]>
+              </value>
+            </param>
+            <param index="33">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="34">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="35">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="36">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="37">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="38">
+              <value>
+                <![CDATA[CurrentEmp One]]>
+              </value>
+            </param>
+            <param index="39">
+              <value>
+                <![CDATA[345 CurrentEmp St]]>
+              </value>
+            </param>
+            <param index="40">
+              <value>
+                <![CDATA[9.056666666E9]]>
+              </value>
+            </param>
+            <param index="41">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="42">
+              <value>
+                <![CDATA[  ]]>
+              </value>
+            </param>
+            <param index="43">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="44">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="45">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="46">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="47">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="48">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="49">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="50">
+              <value>
+                <![CDATA[Somewhere had fun]]>
+              </value>
+            </param>
+            <param index="51">
+              <value>
+                <![CDATA[EmpOne]]>
+              </value>
+            </param>
+            <param index="52">
+              <value>
+                <![CDATA[876 EmpOne Blvd]]>
+              </value>
+            </param>
+            <param index="53">
+              <value>
+                <![CDATA[Canada]]>
+              </value>
+            </param>
+            <param index="54">
+              <value>
+                <![CDATA[Ontario]]>
+              </value>
+            </param>
+            <param index="55">
+              <value>
+                <![CDATA[9059999999]]>
+              </value>
+            </param>
+            <param index="56">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="57">
+              <value>
+                <![CDATA[Supervisor]]>
+              </value>
+            </param>
+            <param index="58">
+              <value>
+                <![CDATA[18 Jan 1990]]>
+              </value>
+            </param>
+            <param index="59">
+              <value>
+                <![CDATA[26 Sep 2020]]>
+              </value>
+            </param>
+            <param index="60">
+              <value>
+                <![CDATA[Drilling Machine]]>
+              </value>
+            </param>
+            <param index="61">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="62">
+              <value>
+                <![CDATA[TestFile_PDFA.pdf]]>
+              </value>
+            </param>
+            <param index="63">
+              <value>
+                <![CDATA[JPEG_Test.jpg]]>
+              </value>
+            </param>
+            <param index="64">
+              <value>
+                <![CDATA[test1@testmail.com]]>
+              </value>
+            </param>
+            <param index="65">
+              <value>
+                <![CDATA[TestOneLName TestOneFName]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterMyInformation -->
+        <test-method status="PASS" signature="enterMyInformation(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.nihlQAPOM.auto.testcases.e2eTest@ff5b51f]" name="enterMyInformation" duration-ms="57998" started-at="2020-09-27T20:52:51Z" data-provider="getAllTestData" finished-at="2020-09-27T20:53:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Gradual]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[test2@testmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[15]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Feb]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1972]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[TestFNameTwo]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[TestLNameTwo]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[484783535]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[222 Testtwo St]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[289]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[London]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[Ontario]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[L8Y1G8]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[Canada]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[4372222222]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[English]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[2016]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[16 Jul 2016]]>
+              </value>
+            </param>
+            <param index="23">
+              <value>
+                <![CDATA[Audio Two Clinic]]>
+              </value>
+            </param>
+            <param index="24">
+              <value>
+                <![CDATA[222 AudioTwo St]]>
+              </value>
+            </param>
+            <param index="25">
+              <value>
+                <![CDATA[6472222222]]>
+              </value>
+            </param>
+            <param index="26">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="27">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="28">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="29">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="30">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="31">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="32">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="33">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="34">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="35">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="36">
+              <value>
+                <![CDATA[12 Jul 2020]]>
+              </value>
+            </param>
+            <param index="37">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="38">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="39">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="40">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="41">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="42">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="43">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="44">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="45">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="46">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="47">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="48">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="49">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="50">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="51">
+              <value>
+                <![CDATA[EmpTwo]]>
+              </value>
+            </param>
+            <param index="52">
+              <value>
+                <![CDATA[222 EmpTwo St]]>
+              </value>
+            </param>
+            <param index="53">
+              <value>
+                <![CDATA[Canada]]>
+              </value>
+            </param>
+            <param index="54">
+              <value>
+                <![CDATA[Ontario]]>
+              </value>
+            </param>
+            <param index="55">
+              <value>
+                <![CDATA[9052222222]]>
+              </value>
+            </param>
+            <param index="56">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="57">
+              <value>
+                <![CDATA[Manager]]>
+              </value>
+            </param>
+            <param index="58">
+              <value>
+                <![CDATA[12 Feb 1992]]>
+              </value>
+            </param>
+            <param index="59">
+              <value>
+                <![CDATA[12 Jan 2020]]>
+              </value>
+            </param>
+            <param index="60">
+              <value>
+                <![CDATA[Lathe]]>
+              </value>
+            </param>
+            <param index="61">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="62">
+              <value>
+                <![CDATA[TestFile_PDFA.pdf]]>
+              </value>
+            </param>
+            <param index="63">
+              <value>
+                <![CDATA[JPEG_Test.jpg]]>
+              </value>
+            </param>
+            <param index="64">
+              <value>
+                <![CDATA[test2@testmail.com]]>
+              </value>
+            </param>
+            <param index="65">
+              <value>
+                <![CDATA[TestLNameTwo]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterMyInformation -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.nihlQAPOM.auto.testcases.e2eTest@ff5b51f]" name="setUp" is-config="true" duration-ms="0" started-at="2020-09-27T20:52:51Z" finished-at="2020-09-27T20:52:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.nihlQAPOM.auto.testcases.e2eTest@ff5b51f]" name="teardown" is-config="true" duration-ms="0" started-at="2020-09-27T20:53:49Z" finished-at="2020-09-27T20:53:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.nihlQAPOM.auto.testcases.e2eTest -->
+    </test> <!-- NIHL Application Tests -->
+  </suite> <!-- NIHL QA Automation Suite -->
+</testng-results>
